@@ -1,0 +1,26 @@
+```{r setup, include=FALSE}
+library(pegas)
+library(knitr)
+setwd("/Users/henrysun_1/Desktop/Duke/PhD 2025-2026/callinectes_co1") 
+getwd()
+```
+
+```{r}
+dna <- read.dna("/Users/henrysun_1/Desktop/Duke/PhD 2025-2026/callinectes_co1/processed/combined_CO1_trimmed.fasta", format = "fasta")
+
+# Build haplotype network
+haps <- haplotype(dna)
+net <- haploNet(haps)
+
+# Plot with smaller text and node labels
+plot(
+  net,
+  size = attr(net, "freq"), # circle size by haplotype frequency
+  scale.ratio = 0.2, # edge-to-node scaling
+  cex = 0.4, #text size
+  labels = TRUE # show haplotype labels
+)
+
+
+```
+
