@@ -1,26 +1,59 @@
 ```{r setup, include=FALSE}
 library(pegas)
 library(knitr)
+library(ape)
+library(tidyverse)
+library(RColorBrewer)
+
 setwd("/Users/henrysun_1/Desktop/Duke/PhD 2025-2026/callinectes_co1") 
 getwd()
 ```
 
+trait matrix adjustment
 ```{r}
-dna <- read.dna("/Users/henrysun_1/Desktop/Duke/PhD 2025-2026/callinectes_co1/processed/combined_CO1_trimmed.fasta", format = "fasta")
+dna <- read.nexus.data("/Users/henrysun_1/Desktop/Duke/PhD 2025-2026/callinectes_co1/processed/combined_unique_trimmed.nexus")
 
-# Build haplotype network
-haps <- haplotype(dna)
-net <- haploNet(haps)
-
-# Plot with smaller text and node labels
-plot(
-  net,
-  size = attr(net, "freq"), # circle size by haplotype frequency
-  scale.ratio = 0.2, # edge-to-node scaling
-  cex = 0.4, #text size
-  labels = TRUE # show haplotype labels
-)
-
+traits <- read.csv("/Users/henrysun_1/Desktop/Duke/PhD 2025-2026/callinectes_co1/processed/population_traits.csv")
 
 ```
 
+
+```{r}
+dna_bin <- as.DNAbin(dna)
+dna_mat <- as.DNAbin(as.alignment(as.list(dna_bin)))
+haps <- haplotype(dna_bin)
+d <- dist.dna(haps, "N")
+net <- rmst(d, quiet = TRUE)
+
+pop <- as.factor(traits$Population[match(names(dna_bin), traits$Taxon)])
+table(pop)  # check that populations are assigned correctly
+
+hap_freq <- haploFreq(dna_mat, fac=pop, haplo = haps)
+# hap_freq <- hap_freq[attr(net, "labels"), ]
+# hap_freq <- hap_freq[net.labs, ]
+hap_freq
+```
+
+```{r}
+# setHaploNetOptions(labels = FALSE)
+
+# hap_summary <- summary(haps)                    
+# hap_sizes <- hap_summary[attr(net, "labels")]  
+
+n_pop <- ncol(hap_freq)
+pop_colors <- brewer.pal(min(n_pop, 8), "Set2")  
+
+# hap_freq <- apply(hap_freq, 2, as.numeric)
+# rownames(hap_freq) <- attr(net, "labels")
+
+plot(
+  net,
+  size = sqrt(2*hap_sizes),               
+  pie = hap_freq,                  
+  legend = TRUE,            
+  threshold = c(1, 20),
+)
+
+
+
+```
