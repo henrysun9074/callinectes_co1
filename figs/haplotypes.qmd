@@ -4,56 +4,71 @@ library(knitr)
 library(ape)
 library(tidyverse)
 library(RColorBrewer)
+library(igraph)
 
 setwd("/Users/henrysun_1/Desktop/Duke/PhD 2025-2026/callinectes_co1") 
 getwd()
 ```
 
-trait matrix adjustment
+
 ```{r}
-dna <- read.nexus.data("/Users/henrysun_1/Desktop/Duke/PhD 2025-2026/callinectes_co1/processed/combined_unique_trimmed.nexus")
+# dna <- read.nexus.data("/Users/henrysun_1/Desktop/Duke/PhD 2025-2026/callinectes_co1/processed/combined_unique_trimmed.nexus")
+
+dna <- read.dna("/Users/henrysun_1/Desktop/Duke/PhD 2025-2026/callinectes_co1/processed/combined_unique_trimmed.fasta", format="fasta")
 
 traits <- read.csv("/Users/henrysun_1/Desktop/Duke/PhD 2025-2026/callinectes_co1/processed/population_traits.csv")
 
 ```
 
+## Initial plotting with guidance from Github pages doc
 
 ```{r}
-dna_bin <- as.DNAbin(dna)
-dna_mat <- as.DNAbin(as.alignment(as.list(dna_bin)))
-haps <- haplotype(dna_bin)
-d <- dist.dna(haps, "N")
-net <- rmst(d, quiet = TRUE)
 
-pop <- as.factor(traits$Population[match(names(dna_bin), traits$Taxon)])
-table(pop)  # check that populations are assigned correctly
+hap <- haplotype(dna)
+hapInfo <- stack(setNames(attr(hap,"index"),rownames(hap)))
+names(hapInfo) <- c("index","haplotype")
 
-hap_freq <- haploFreq(dna_mat, fac=pop, haplo = haps)
-# hap_freq <- hap_freq[attr(net, "labels"), ]
-# hap_freq <- hap_freq[net.labs, ]
-hap_freq
+hapInfo$index
+merged <- data.frame(cbind(hapInfo,traits[hapInfo$index,]))
+pie <- table(merged$haplotype,merged$Population)
+
+net <- haploNet(hap)
+
+
 ```
 
 ```{r}
-# setHaploNetOptions(labels = FALSE)
+freq <- attr(net, "freq")
+freq_scaled <- (log(freq + 1) / log(max(freq) + 1))
+size_scaled <- 1 + 20 * freq_scaled
 
-# hap_summary <- summary(haps)                    
-# hap_sizes <- hap_summary[attr(net, "labels")]  
+n_pop <- ncol(freq)
+cols <- brewer.pal(min(n_pop, 8), "Set2")
 
-n_pop <- ncol(hap_freq)
-pop_colors <- brewer.pal(min(n_pop, 8), "Set2")  
-
-# hap_freq <- apply(hap_freq, 2, as.numeric)
-# rownames(hap_freq) <- attr(net, "labels")
+par(mar = c(3, 3, 3, 3))
 
 plot(
   net,
-  size = sqrt(2*hap_sizes),               
-  pie = hap_freq,                  
-  legend = TRUE,            
-  threshold = c(1, 20),
+  size = size_scaled,
+  bg = cols,
+  pie = pie,
+  show.mutation = 3,
+  scale.ratio = 6,
+  asp = 0.5,
+  labels = FALSE,
+  fast = TRUE
 )
 
-
+legend(
+  "topleft",
+  legend = colnames(pie),
+  col = cols,
+  pch = 15,
+  ncol = 1,
+  pt.cex = 1.5,
+  bty="n"
+)
 
 ```
+
+
