@@ -1,2 +1,4 @@
 /misc/
 .Rproj.user
+*.RData
+*.Rhistory
