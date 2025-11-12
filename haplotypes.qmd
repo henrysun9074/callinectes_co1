@@ -16,7 +16,7 @@ getwd()
 
 dna <- read.dna("/Users/henrysun_1/Desktop/Duke/PhD 2025-2026/callinectes_co1/processed/combined_unique_trimmed.fasta", format="fasta")
 
-traits <- read.csv("/Users/henrysun_1/Desktop/Duke/PhD 2025-2026/callinectes_co1/processed/population_traits.csv")
+traits <- read.csv("/Users/henrysun_1/Desktop/Duke/PhD 2025-2026/callinectes_co1/processed/misc/population_traits.csv")
 
 ```
 
@@ -43,7 +43,7 @@ freq_scaled <- (log(freq + 1) / log(max(freq) + 1))
 size_scaled <- 1 + 20 * freq_scaled
 
 n_pop <- ncol(freq)
-cols <- brewer.pal(min(n_pop, 8), "Set2")
+cols <- brewer.pal(min(n_pop, 8), "Set3")
 
 par(mar = c(3, 3, 3, 3))
 

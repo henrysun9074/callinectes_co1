@@ -1,0 +1,1061 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" version="1.2" viewBox="0 0 1951 1209">
+  <!-- Generator: Adobe Illustrator 29.8.3, SVG Export Plug-In . SVG Version: 2.1.1 Build 3)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #8dd3c7;
+      }
+
+      .st0, .st1, .st2, .st3, .st4, .st5, .st6, .st7, .st8, .st9, .st10, .st11, .st12 {
+        stroke: #000;
+        stroke-linejoin: bevel;
+      }
+
+      .st0, .st1, .st2, .st3, .st4, .st5, .st7, .st8, .st9, .st10, .st11, .st12 {
+        stroke-linecap: square;
+        stroke-width: 1px;
+      }
+
+      .st0, .st1, .st2, .st3, .st4, .st5, .st7, .st8, .st9, .st11, .st12 {
+        fill-rule: evenodd;
+      }
+
+      .st1 {
+        fill: #bebada;
+      }
+
+      .st13 {
+        font-size: 25px;
+      }
+
+      .st13, .st14 {
+        font-family: Baskerville, Baskerville;
+        isolation: isolate;
+      }
+
+      .st14 {
+        font-size: 27.53px;
+      }
+
+      .st3 {
+        fill: #fccde5;
+      }
+
+      .st4 {
+        fill: #80b1d3;
+      }
+
+      .st5 {
+        fill: #fdb462;
+      }
+
+      .st6 {
+        fill: none;
+        stroke-linecap: round;
+        stroke-width: 2px;
+      }
+
+      .st7, .st12 {
+        fill-opacity: 0;
+      }
+
+      .st8 {
+        fill: #fb8072;
+      }
+
+      .st9 {
+        fill: #b3de69;
+      }
+
+      .st10 {
+        fill: url(#linear-gradient);
+      }
+
+      .st11 {
+        fill: #ffffb3;
+      }
+
+      .st12 {
+        stroke-opacity: 0;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="2198.91" y1="336.1" x2="2643.92" y2="336.1" gradientUnits="userSpaceOnUse">
+      <stop offset=".34" stop-color="#f7f7f7"/>
+      <stop offset="1" stop-color="#0c0c0b"/>
+    </linearGradient>
+  </defs>
+  <rect class="st10" x="1438.59" y="27.83" width="359.43" height="616.54"/>
+  <g>
+    <line class="st6" x1="786.5" y1="1007.06" x2="685.86" y2="772.83" vector-effect="none"/>
+    <line class="st6" x1="740.78" y1="889.74" x2="731.79" y2="893.74" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="786.5" y1="1007.06" x2="833.66" y2="1058.21" vector-effect="none"/>
+    <line class="st6" x1="811.76" y1="1026.7" x2="803.76" y2="1033.7" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="786.5" y1="1007.06" x2="748.73" y2="1090.27" vector-effect="none"/>
+    <line class="st6" x1="763.78" y1="1043.69" x2="772.77" y2="1047.69" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="336.2" y1="975.86" x2="392.11" y2="766.59" vector-effect="none"/>
+    <line class="st6" x1="357.9" y1="871.74" x2="367.89" y2="874.74" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="336.2" y1="975.86" x2="270.46" y2="1055.66" vector-effect="none"/>
+    <line class="st6" x1="300.91" y1="1009.7" x2="307.91" y2="1016.7" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="336.2" y1="975.86" x2="418.37" y2="958.3" vector-effect="none"/>
+    <line class="st6" x1="372.89" y1="961.72" x2="374.89" y2="971.72" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="685.86" y1="772.83" x2="608.42" y2="539.05" vector-effect="none"/>
+    <line class="st6" x1="651.81" y1="655.81" x2="642.81" y2="659.81" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="685.86" y1="772.83" x2="596.87" y2="784.02" vector-effect="none"/>
+    <line class="st6" x1="642.81" y1="772.77" x2="643.81" y2="782.77" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="685.86" y1="772.83" x2="668.78" y2="864.16" vector-effect="none"/>
+    <line class="st6" x1="672.8" y1="814.76" x2="681.8" y2="816.76" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="685.86" y1="772.83" x2="725.18" y2="657.34" vector-effect="none"/>
+    <line class="st6" x1="699.8" y1="715.79" x2="708.79" y2="718.79" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="685.86" y1="772.83" x2="741.63" y2="837.75" vector-effect="none"/>
+    <line class="st6" x1="715.79" y1="799.77" x2="707.79" y2="805.76" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="392.11" y1="766.59" x2="336.65" y2="554.28" vector-effect="none"/>
+    <line class="st6" x1="368.89" y1="660.81" x2="359.89" y2="663.81" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="392.11" y1="766.59" x2="272.12" y2="868.72" vector-effect="none"/>
+    <line class="st6" x1="329.9" y1="811.76" x2="336.9" y2="819.76" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="392.11" y1="766.59" x2="558.45" y2="744.56" vector-effect="none"/>
+    <line class="st6" x1="471.86" y1="750.78" x2="472.86" y2="760.78" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="392.11" y1="766.59" x2="600.22" y2="676.73" vector-effect="none"/>
+    <line class="st6" x1="491.86" y1="717.79" x2="494.86" y2="726.79" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="392.11" y1="766.59" x2="450.9" y2="833.37" vector-effect="none"/>
+    <line class="st6" x1="422.88" y1="794.77" x2="415.88" y2="800.77" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="392.11" y1="766.59" x2="544.4" y2="679.49" vector-effect="none"/>
+    <line class="st6" x1="462.86" y1="719.79" x2="467.86" y2="727.79" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="392.11" y1="766.59" x2="229.79" y2="685.13" vector-effect="none"/>
+    <line class="st6" x1="314.91" y1="721.79" x2="310.91" y2="730.79" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="392.11" y1="766.59" x2="197.26" y2="842.48" vector-effect="none"/>
+    <line class="st6" x1="294.91" y1="798.77" x2="297.91" y2="807.76" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="392.11" y1="766.59" x2="253.39" y2="627.72" vector-effect="none"/>
+    <line class="st6" x1="327.9" y1="694.8" x2="320.91" y2="701.79" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="392.11" y1="766.59" x2="167.04" y2="776.8" vector-effect="none"/>
+    <line class="st6" x1="280.92" y1="765.78" x2="281.92" y2="775.77" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="392.11" y1="766.59" x2="331.63" y2="835.02" vector-effect="none"/>
+    <line class="st6" x1="358.89" y1="794.77" x2="366.89" y2="801.77" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="392.11" y1="766.59" x2="404.5" y2="602.79" vector-effect="none"/>
+    <line class="st6" x1="392.88" y1="686.8" x2="402.88" y2="686.8" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="392.11" y1="766.59" x2="232.12" y2="752.95" vector-effect="none"/>
+    <line class="st6" x1="314.91" y1="754.78" x2="313.91" y2="764.78" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="392.11" y1="766.59" x2="258.93" y2="805.61" vector-effect="none"/>
+    <line class="st6" x1="325.9" y1="779.77" x2="328.9" y2="789.77" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="392.11" y1="766.59" x2="165.46" y2="721.88" vector-effect="none"/>
+    <line class="st6" x1="281.92" y1="739.78" x2="279.92" y2="748.78" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="392.11" y1="766.59" x2="251.43" y2="545.47" vector-effect="none"/>
+    <line class="st6" x1="326.9" y1="654.81" x2="317.91" y2="660.81" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="392.11" y1="766.59" x2="381.27" y2="875.68" vector-effect="none"/>
+    <line class="st6" x1="381.89" y1="814.76" x2="391.89" y2="815.76" vector-effect="none"/>
+    <line class="st6" x1="380.89" y1="819.76" x2="390.89" y2="820.76" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="392.11" y1="766.59" x2="169.24" y2="647.57" vector-effect="none"/>
+    <line class="st6" x1="286.92" y1="704.79" x2="281.92" y2="713.79" vector-effect="none"/>
+    <line class="st6" x1="282.92" y1="701.79" x2="277.92" y2="710.79" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="336.65" y1="554.28" x2="392.62" y2="439.28" vector-effect="none"/>
+    <line class="st6" x1="358.89" y1="495.85" x2="367.89" y2="500.85" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="691.75" y1="301.9" x2="732.23" y2="209.85" vector-effect="none"/>
+    <line class="st6" x1="705.79" y1="255.92" x2="714.79" y2="259.92" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="691.75" y1="301.9" x2="641.65" y2="208.23" vector-effect="none"/>
+    <line class="st6" x1="671.8" y1="253.93" x2="662.81" y2="258.92" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="691.75" y1="301.9" x2="696.44" y2="145.29" vector-effect="none"/>
+    <line class="st6" x1="688.8" y1="225.93" x2="698.8" y2="225.93" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="691.75" y1="301.9" x2="757" y2="272.71" vector-effect="none"/>
+    <line class="st6" x1="719.79" y1="282.92" x2="723.79" y2="291.91" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="691.75" y1="301.9" x2="738.87" y2="441.29" vector-effect="none"/>
+    <line class="st6" x1="718.79" y1="366.89" x2="708.79" y2="369.89" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="1051.91" y1="680.51" x2="1177.33" y2="721.82" vector-effect="none"/>
+    <line class="st6" x1="1113.67" y1="694.8" x2="1110.67" y2="704.79" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="1051.91" y1="680.51" x2="942.61" y2="646.06" vector-effect="none"/>
+    <line class="st6" x1="1000.71" y1="658.81" x2="997.71" y2="668.8" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="1051.91" y1="680.51" x2="949.27" y2="590.59" vector-effect="none"/>
+    <line class="st6" x1="1005.71" y1="632.81" x2="998.71" y2="640.81" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="1051.91" y1="680.51" x2="1103.69" y2="743.51" vector-effect="none"/>
+    <line class="st6" x1="1079.68" y1="706.79" x2="1071.69" y2="712.79" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="1051.91" y1="680.51" x2="1111.66" y2="613.08" vector-effect="none"/>
+    <line class="st6" x1="1075.68" y1="644.81" x2="1083.68" y2="651.81" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="1051.91" y1="680.51" x2="985.25" y2="753.31" vector-effect="none"/>
+    <line class="st6" x1="1015.7" y1="710.79" x2="1023.7" y2="717.79" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="1051.91" y1="680.51" x2="912.47" y2="683.88" vector-effect="none"/>
+    <line class="st6" x1="983.71" y1="676.8" x2="984.71" y2="686.8" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="1051.91" y1="680.51" x2="1178.9" y2="638" vector-effect="none"/>
+    <line class="st6" x1="1108.68" y1="655.81" x2="1111.67" y2="664.81" vector-effect="none"/>
+    <line class="st6" x1="1113.67" y1="653.81" x2="1116.67" y2="663.81" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="396.63" y1="524.2" x2="525.22" y2="555.66" vector-effect="none"/>
+    <line class="st6" x1="458.87" y1="533.84" x2="456.87" y2="543.84" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="396.63" y1="524.2" x2="251.43" y2="545.47" vector-effect="none"/>
+    <line class="st6" x1="324.9" y1="528.84" x2="326.9" y2="538.84" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="396.63" y1="524.2" x2="324.46" y2="436.53" vector-effect="none"/>
+    <line class="st6" x1="365.89" y1="478.86" x2="357.9" y2="484.86" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="558.45" y1="744.56" x2="724.56" y2="717.39" vector-effect="none"/>
+    <line class="st6" x1="637.81" y1="725.79" x2="639.81" y2="735.78" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="608.42" y1="539.05" x2="392.11" y2="766.59" vector-effect="none"/>
+    <line class="st6" x1="497.85" y1="646.81" x2="504.85" y2="653.81" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="608.42" y1="539.05" x2="691.75" y2="301.9" vector-effect="none"/>
+    <line class="st6" x1="643.81" y1="420.88" x2="653.81" y2="423.88" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="608.42" y1="539.05" x2="396.63" y2="524.2" vector-effect="none"/>
+    <line class="st6" x1="504.85" y1="525.85" x2="503.85" y2="535.84" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="608.42" y1="539.05" x2="558.14" y2="321.22" vector-effect="none"/>
+    <line class="st6" x1="587.83" y1="430.87" x2="578.83" y2="432.87" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="608.42" y1="539.05" x2="673.76" y2="564.64" vector-effect="none"/>
+    <line class="st6" x1="639.81" y1="545.84" x2="636.81" y2="554.84" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="608.42" y1="539.05" x2="667.53" y2="615.14" vector-effect="none"/>
+    <line class="st6" x1="639.81" y1="571.83" x2="631.81" y2="577.83" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="608.42" y1="539.05" x2="603.24" y2="376.85" vector-effect="none"/>
+    <line class="st6" x1="610.82" y1="459.87" x2="600.82" y2="459.87" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="608.42" y1="539.05" x2="529.87" y2="375.19" vector-effect="none"/>
+    <line class="st6" x1="573.83" y1="456.87" x2="564.83" y2="460.86" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="608.42" y1="539.05" x2="479.29" y2="336.1" vector-effect="none"/>
+    <line class="st6" x1="548.84" y1="436.87" x2="540.84" y2="441.87" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="608.42" y1="539.05" x2="421.86" y2="495.98" vector-effect="none"/>
+    <line class="st6" x1="517.85" y1="512.85" x2="515.85" y2="522.85" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="608.42" y1="539.05" x2="516.72" y2="707.79" vector-effect="none"/>
+    <line class="st6" x1="558.84" y1="618.82" x2="567.83" y2="622.82" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="608.42" y1="539.05" x2="705.13" y2="402.17" vector-effect="none"/>
+    <line class="st6" x1="650.81" y1="468.86" x2="658.81" y2="474.86" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="608.42" y1="539.05" x2="463.34" y2="400.06" vector-effect="none"/>
+    <line class="st6" x1="540.84" y1="466.86" x2="533.84" y2="474.86" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="608.42" y1="539.05" x2="673.19" y2="351.98" vector-effect="none"/>
+    <line class="st6" x1="634.81" y1="445.87" x2="643.81" y2="448.87" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="608.42" y1="539.05" x2="392.62" y2="439.28" vector-effect="none"/>
+    <line class="st6" x1="504.85" y1="484.86" x2="499.85" y2="493.86" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="608.42" y1="539.05" x2="683.3" y2="473.66" vector-effect="none"/>
+    <line class="st6" x1="637.81" y1="505.85" x2="644.81" y2="512.85" vector-effect="none"/>
+    <line class="st6" x1="641.81" y1="501.85" x2="648.81" y2="509.85" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="1638.21" y1="792.63" x2="1576.92" y2="861.21" vector-effect="none"/>
+    <line class="st6" x1="1606.53" y1="819.76" x2="1614.53" y2="825.76" vector-effect="none"/>
+    <line class="st6" x1="1603.53" y1="822.76" x2="1610.53" y2="829.76" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="596.87" y1="784.02" x2="516.72" y2="707.79" vector-effect="none"/>
+    <line class="st6" x1="561.84" y1="743.78" x2="554.84" y2="750.78" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="525.22" y1="555.66" x2="673.76" y2="564.64" vector-effect="none"/>
+    <line class="st6" x1="596.83" y1="554.84" x2="595.83" y2="564.83" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="673.76" y1="564.64" x2="600.22" y2="676.73" vector-effect="none"/>
+    <line class="st6" x1="633.81" y1="615.82" x2="641.81" y2="620.82" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="673.76" y1="564.64" x2="725.18" y2="657.34" vector-effect="none"/>
+    <line class="st6" x1="701.79" y1="605.82" x2="693.8" y2="610.82" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="673.76" y1="564.64" x2="796.75" y2="616.83" vector-effect="none"/>
+    <line class="st6" x1="734.78" y1="584.83" x2="730.79" y2="593.83" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="673.76" y1="564.64" x2="738.87" y2="441.29" vector-effect="none"/>
+    <line class="st6" x1="699.8" y1="501.85" x2="708.79" y2="506.85" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="600.22" y1="676.73" x2="669.54" y2="662.17" vector-effect="none"/>
+    <line class="st6" x1="630.82" y1="664.81" x2="632.81" y2="674.8" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="600.22" y1="676.73" x2="724.56" y2="717.39" vector-effect="none"/>
+    <line class="st6" x1="660.81" y1="690.8" x2="657.81" y2="700.79" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="450.9" y1="833.37" x2="418.37" y2="958.3" vector-effect="none"/>
+    <line class="st6" x1="429.87" y1="891.74" x2="439.87" y2="893.74" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="450.9" y1="833.37" x2="516.72" y2="707.79" vector-effect="none"/>
+    <line class="st6" x1="477.86" y1="769.77" x2="486.86" y2="774.77" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="949.27" y1="590.59" x2="1020.69" y2="528.63" vector-effect="none"/>
+    <line class="st6" x1="979.71" y1="556.84" x2="985.71" y2="564.83" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="544.4" y1="679.49" x2="667.53" y2="615.14" vector-effect="none"/>
+    <line class="st6" x1="600.82" y1="643.81" x2="605.82" y2="652.81" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="544.4" y1="679.49" x2="669.54" y2="662.17" vector-effect="none"/>
+    <line class="st6" x1="602.82" y1="665.8" x2="604.82" y2="675.8" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="544.4" y1="679.49" x2="455.3" y2="659.45" vector-effect="none"/>
+    <line class="st6" x1="502.85" y1="664.81" x2="500.85" y2="674.8" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="544.4" y1="679.49" x2="539.5" y2="827.62" vector-effect="none"/>
+    <line class="st6" x1="536.84" y1="747.78" x2="546.84" y2="747.78" vector-effect="none"/>
+    <line class="st6" x1="536.84" y1="752.78" x2="546.84" y2="752.78" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="82.77" y1="755.07" x2="165.46" y2="721.88" vector-effect="none"/>
+    <line class="st6" x1="118.97" y1="733.78" x2="122.96" y2="743.78" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="148.65" y1="471.42" x2="37.49" y2="407.58" vector-effect="none"/>
+    <line class="st6" x1="98.97" y1="436.87" x2="93.97" y2="445.87" vector-effect="none"/>
+    <line class="st6" x1="94.97" y1="434.87" x2="89.97" y2="442.87" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="667.53" y1="615.14" x2="796.75" y2="616.83" vector-effect="none"/>
+    <line class="st6" x1="728.79" y1="610.82" x2="728.79" y2="620.82" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="197.26" y1="842.48" x2="93.64" y2="920.73" vector-effect="none"/>
+    <line class="st6" x1="145.96" y1="873.74" x2="151.96" y2="881.74" vector-effect="none"/>
+    <line class="st6" x1="141.96" y1="876.74" x2="147.96" y2="884.74" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="985.25" y1="753.31" x2="869.64" y2="750" vector-effect="none"/>
+    <line class="st6" x1="929.73" y1="745.78" x2="929.73" y2="755.78" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="167.04" y1="776.8" x2="82.77" y2="755.07" vector-effect="none"/>
+    <line class="st6" x1="127.96" y1="760.78" x2="125.96" y2="770.77" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="669.54" y1="662.17" x2="796.75" y2="616.83" vector-effect="none"/>
+    <line class="st6" x1="728.79" y1="634.81" x2="731.79" y2="644.81" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="912.47" y1="683.88" x2="869.64" y2="750" vector-effect="none"/>
+    <line class="st6" x1="887.74" y1="711.79" x2="895.74" y2="716.79" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="1407.36" y1="800.9" x2="1576.92" y2="861.21" vector-effect="none"/>
+    <line class="st6" x1="1483.57" y1="822.76" x2="1480.57" y2="831.76" vector-effect="none"/>
+    <line class="st6" x1="1488.56" y1="823.76" x2="1485.56" y2="833.76" vector-effect="none"/>
+    <line class="st6" x1="1493.56" y1="825.76" x2="1489.56" y2="835.76" vector-effect="none"/>
+    <line class="st6" x1="1497.56" y1="827.76" x2="1494.56" y2="836.75" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="1407.36" y1="800.9" x2="1177.33" y2="721.82" vector-effect="none"/>
+    <line class="st6" x1="1307.62" y1="760.78" x2="1304.62" y2="770.77" vector-effect="none"/>
+    <line class="st6" x1="1302.62" y1="759.78" x2="1299.62" y2="768.77" vector-effect="none"/>
+    <line class="st6" x1="1298.62" y1="757.78" x2="1294.62" y2="766.78" vector-effect="none"/>
+    <line class="st6" x1="1293.62" y1="755.78" x2="1290.62" y2="765.78" vector-effect="none"/>
+    <line class="st6" x1="1288.62" y1="754.78" x2="1285.62" y2="763.78" vector-effect="none"/>
+    <line class="st6" x1="1283.62" y1="752.78" x2="1280.62" y2="762.78" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="418.37" y1="958.3" x2="426.31" y2="1081.35" vector-effect="none"/>
+    <line class="st6" x1="426.88" y1="1013.7" x2="416.88" y2="1014.7" vector-effect="none"/>
+    <line class="st6" x1="426.88" y1="1018.7" x2="416.88" y2="1019.7" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="724.56" y1="717.39" x2="795.07" y2="768.94" vector-effect="none"/>
+    <line class="st6" x1="759.78" y1="736.78" x2="754.78" y2="744.78" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="724.56" y1="717.39" x2="796.75" y2="616.83" vector-effect="none"/>
+    <line class="st6" x1="754.78" y1="665.8" x2="762.78" y2="671.8" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="724.56" y1="717.39" x2="869.64" y2="750" vector-effect="none"/>
+    <line class="st6" x1="794.77" y1="727.79" x2="792.77" y2="737.78" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="1729.38" y1="946.69" x2="1659.7" y2="914.89" vector-effect="none"/>
+    <line class="st6" x1="1698.5" y1="926.73" x2="1694.5" y2="935.73" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="764.82" y1="22.49" x2="696.44" y2="145.29" vector-effect="none"/>
+    <line class="st6" x1="729.79" y1="73.98" x2="737.78" y2="78.98" vector-effect="none"/>
+    <line class="st6" x1="726.79" y1="78.98" x2="735.78" y2="83.98" vector-effect="none"/>
+    <line class="st6" x1="724.79" y1="82.98" x2="732.79" y2="87.97" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="421.86" y1="495.98" x2="404.5" y2="602.79" vector-effect="none"/>
+    <line class="st6" x1="407.88" y1="545.84" x2="417.88" y2="546.84" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="421.86" y1="495.98" x2="324.46" y2="436.53" vector-effect="none"/>
+    <line class="st6" x1="377.89" y1="462.86" x2="371.89" y2="470.86" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="404.5" y1="602.79" x2="455.3" y2="659.45" vector-effect="none"/>
+    <line class="st6" x1="431.87" y1="625.82" x2="423.88" y2="631.81" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="705.13" y1="402.17" x2="795.73" y2="360.31" vector-effect="none"/>
+    <line class="st6" x1="745.78" y1="376.89" x2="749.78" y2="385.89" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="673.19" y1="351.98" x2="757" y2="272.71" vector-effect="none"/>
+    <line class="st6" x1="709.79" y1="309.91" x2="715.79" y2="316.91" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="1659.7" y1="914.89" x2="1593.36" y2="931.35" vector-effect="none"/>
+    <line class="st6" x1="1627.52" y1="916.73" x2="1629.52" y2="926.73" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="796.75" y1="616.83" x2="942.61" y2="646.06" vector-effect="none"/>
+    <line class="st6" x1="867.75" y1="625.82" x2="865.75" y2="635.81" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="796.75" y1="616.83" x2="949.27" y2="590.59" vector-effect="none"/>
+    <line class="st6" x1="868.75" y1="598.82" x2="870.74" y2="608.82" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="796.75" y1="616.83" x2="912.47" y2="683.88" vector-effect="none"/>
+    <line class="st6" x1="854.75" y1="643.81" x2="849.75" y2="652.81" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="796.75" y1="616.83" x2="821.01" y2="504.76" vector-effect="none"/>
+    <line class="st6" x1="802.76" y1="561.84" x2="812.76" y2="563.83" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="455.3" y1="659.45" x2="450.07" y2="738.95" vector-effect="none"/>
+    <line class="st6" x1="446.87" y1="695.8" x2="456.87" y2="696.8" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="251.43" y1="545.47" x2="148.65" y2="471.42" vector-effect="none"/>
+    <line class="st6" x1="204.94" y1="504.85" x2="198.94" y2="513.85" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="251.43" y1="545.47" x2="163.93" y2="533.46" vector-effect="none"/>
+    <line class="st6" x1="209.94" y1="534.84" x2="208.94" y2="543.84" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="392.62" y1="439.28" x2="348.96" y2="347.62" vector-effect="none"/>
+    <line class="st6" x1="375.89" y1="392.88" x2="366.89" y2="396.88" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="869.64" y1="750" x2="924.71" y2="830.5" vector-effect="none"/>
+    <line class="st6" x1="899.74" y1="784.77" x2="890.74" y2="790.77" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="696.44" y1="145.29" x2="679.76" y2="60.66" vector-effect="none"/>
+    <line class="st6" x1="692.8" y1="103.97" x2="682.8" y2="105.97" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="757" y1="272.71" x2="843.14" y2="214.99" vector-effect="none"/>
+    <line class="st6" x1="794.77" y1="240.93" x2="800.77" y2="248.93" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="324.46" y1="436.53" x2="255.3" y2="369.03" vector-effect="none"/>
+    <line class="st6" x1="294.91" y1="400.88" x2="287.92" y2="407.88" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="738.87" y1="441.29" x2="821.01" y2="504.76" vector-effect="none"/>
+    <line class="st6" x1="780.77" y1="466.86" x2="774.77" y2="474.86" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="821.01" y1="504.76" x2="898.4" y2="454.23" vector-effect="none"/>
+    <line class="st6" x1="854.75" y1="475.86" x2="859.75" y2="484.86" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="1576.92" y1="861.21" x2="1659.7" y2="914.89" vector-effect="none"/>
+    <line class="st6" x1="1618.53" y1="881.74" x2="1612.53" y2="890.74" vector-effect="none"/>
+  </g>
+  <g>
+    <line class="st6" x1="1576.92" y1="861.21" x2="1593.36" y2="931.35" vector-effect="none"/>
+    <line class="st6" x1="1588.53" y1="891.74" x2="1579.54" y2="894.74" vector-effect="none"/>
+  </g>
+  <path class="st12" d="M828.25,1007.06c0,23.06-18.69,41.75-41.75,41.75s-41.75-18.68-41.75-41.75,18.69-41.74,41.75-41.74,41.75,18.69,41.75,41.74" vector-effect="non-scaling-stroke"/>
+  <path class="st0" d="M786.5,1007.06h41.75-41.75" vector-effect="none"/>
+  <path class="st11" d="M786.5,1007.06h41.75-41.75" vector-effect="none"/>
+  <path class="st1" d="M786.5,1007.06h41.75-41.75" vector-effect="none"/>
+  <path class="st8" d="M786.5,1007.06h41.75-41.75" vector-effect="none"/>
+  <path class="st4" d="M786.5,1007.06h41.75-41.75" vector-effect="none"/>
+  <path class="st5" d="M786.5,1007.06h41.75c0-2.87-.29-5.68-.84-8.38l-40.9,8.38" vector-effect="none"/>
+  <path class="st9" d="M786.5,1007.06l40.9-8.38c-3.88-19.04-20.72-33.36-40.9-33.36-23.06,0-41.75,18.69-41.75,41.74s18.69,41.75,41.75,41.75,41.75-18.68,41.75-41.75h-41.75" vector-effect="none"/>
+  <path class="st12" d="M362.17,975.86c0,14.34-11.63,25.97-25.97,25.97s-25.97-11.63-25.97-25.97,11.63-25.97,25.97-25.97,25.97,11.63,25.97,25.97" vector-effect="non-scaling-stroke"/>
+  <path class="st0" d="M336.2,975.86h25.97c0-14.34-11.63-25.97-25.97-25.97-9.61,0-18,5.22-22.5,12.98l22.5,12.99" vector-effect="none"/>
+  <path class="st11" d="M336.2,975.86l-22.5-12.99c-2.21,3.82-3.48,8.26-3.48,12.99s1.27,9.17,3.48,12.99l22.5-12.99" vector-effect="none"/>
+  <path class="st1" d="M336.2,975.86l-22.5,12.99c2.28,3.94,5.57,7.23,9.51,9.51l12.99-22.5" vector-effect="none"/>
+  <path class="st8" d="M336.2,975.86l-12.99,22.5c3.82,2.21,8.26,3.48,12.99,3.48s9.17-1.27,12.99-3.48l-12.99-22.5" vector-effect="none"/>
+  <path class="st4" d="M336.2,975.86l12.99,22.5c3.94-2.28,7.23-5.57,9.51-9.51l-22.5-12.99" vector-effect="none"/>
+  <path class="st5" d="M336.2,975.86l22.5,12.99-22.5-12.99" vector-effect="none"/>
+  <path class="st9" d="M336.2,975.86l22.5,12.99-22.5-12.99" vector-effect="none"/>
+  <path class="st3" d="M336.2,975.86l22.5,12.99c2.21-3.82,3.48-8.26,3.48-12.99h-25.97" vector-effect="none"/>
+  <path class="st12" d="M702.63,772.83c0,9.26-7.51,16.77-16.77,16.77s-16.77-7.51-16.77-16.77,7.51-16.77,16.77-16.77,16.77,7.51,16.77,16.77" vector-effect="non-scaling-stroke"/>
+  <path class="st0" d="M685.86,772.83h16.77c0-7.45-4.86-13.76-11.58-15.95l-5.19,15.95" vector-effect="none"/>
+  <path class="st11" d="M685.86,772.83l5.19-15.95c-1.63-.53-3.38-.82-5.19-.82-5.58,0-10.52,2.72-13.56,6.91l13.56,9.86" vector-effect="none"/>
+  <path class="st1" d="M685.86,772.83l-13.56-9.86,13.56,9.86" vector-effect="none"/>
+  <path class="st8" d="M685.86,772.83l-13.56-9.86c-2.01,2.77-3.2,6.17-3.2,9.86,0,9.26,7.51,16.77,16.77,16.77,1.81,0,3.55-.29,5.19-.82l-5.19-15.95" vector-effect="none"/>
+  <path class="st4" d="M685.86,772.83l5.19,15.95-5.19-15.95" vector-effect="none"/>
+  <path class="st5" d="M685.86,772.83l5.19,15.95-5.19-15.95" vector-effect="none"/>
+  <path class="st9" d="M685.86,772.83l5.19,15.95-5.19-15.95" vector-effect="none"/>
+  <path class="st3" d="M685.86,772.83l5.19,15.95c6.72-2.18,11.58-8.5,11.58-15.95h-16.77" vector-effect="none"/>
+  <path class="st12" d="M446.18,766.59c0,29.86-24.21,54.07-54.07,54.07s-54.07-24.21-54.07-54.07,24.21-54.07,54.07-54.07,54.07,24.21,54.07,54.07" vector-effect="non-scaling-stroke"/>
+  <path class="st0" d="M392.11,766.59h54.07c0-9.07-2.23-17.63-6.19-25.13l-47.88,25.13" vector-effect="none"/>
+  <path class="st11" d="M392.11,766.59l47.88-25.13c-4.08-7.76-9.99-14.4-17.16-19.36l-30.73,44.49" vector-effect="none"/>
+  <path class="st1" d="M392.11,766.59l30.73-44.49c-8.73-6.04-19.31-9.57-30.73-9.57-2.2,0-4.36.13-6.49.39l6.49,53.68" vector-effect="none"/>
+  <path class="st8" d="M392.11,766.59l-6.49-53.68c-26.8,3.21-47.57,26.02-47.57,53.68,0,29.86,24.21,54.07,54.07,54.07,2.2,0,4.37-.13,6.5-.39l-6.5-53.68" vector-effect="none"/>
+  <path class="st4" d="M392.11,766.59l6.5,53.68c17.99-2.15,33.26-13.14,41.36-28.5l-47.86-25.18" vector-effect="none"/>
+  <path class="st5" d="M392.11,766.59l47.86,25.18-47.86-25.18" vector-effect="none"/>
+  <path class="st9" d="M392.11,766.59l47.86,25.18-47.86-25.18" vector-effect="none"/>
+  <path class="st3" d="M392.11,766.59l47.86,25.18c3.97-7.52,6.21-16.09,6.21-25.18h-54.07" vector-effect="none"/>
+  <path class="st12" d="M344.15,554.28c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="non-scaling-stroke"/>
+  <path class="st0" d="M336.65,554.28h7.5-7.5" vector-effect="none"/>
+  <path class="st11" d="M344.15,554.28c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="none"/>
+  <path class="st12" d="M704.74,301.9c0,7.17-5.81,12.99-12.99,12.99s-12.99-5.81-12.99-12.99,5.81-12.99,12.99-12.99,12.99,5.81,12.99,12.99" vector-effect="non-scaling-stroke"/>
+  <path class="st0" d="M691.75,301.9h12.99-12.99" vector-effect="none"/>
+  <path class="st11" d="M691.75,301.9h12.99c0-7.17-5.81-12.99-12.99-12.99-2.37,0-4.59.63-6.5,1.74l6.5,11.25" vector-effect="none"/>
+  <path class="st1" d="M691.75,301.9l-6.5-11.25c-3.88,2.25-6.49,6.44-6.49,11.25s2.61,9,6.49,11.25l6.5-11.25" vector-effect="none"/>
+  <path class="st8" d="M691.75,301.9l-6.5,11.25,6.5-11.25" vector-effect="none"/>
+  <path class="st4" d="M691.75,301.9l-6.5,11.25c1.91,1.11,4.13,1.74,6.5,1.74,7.17,0,12.99-5.81,12.99-12.99h-12.99" vector-effect="none"/>
+  <path class="st12" d="M1066.91,680.51c0,8.28-6.72,15-15,15s-15-6.71-15-15,6.71-15,15-15,15,6.71,15,15" vector-effect="non-scaling-stroke"/>
+  <path class="st0" d="M1051.91,680.51h15c0-8.28-6.72-15-15-15v15" vector-effect="none"/>
+  <path class="st11" d="M1051.91,680.51v-15c-8.29,0-15,6.71-15,15s6.71,15,15,15v-15" vector-effect="none"/>
+  <path class="st1" d="M1051.91,680.51v15-15" vector-effect="none"/>
+  <path class="st8" d="M1051.91,680.51v15-15" vector-effect="none"/>
+  <path class="st4" d="M1051.91,680.51v15c8.28,0,15-6.71,15-15h-15" vector-effect="none"/>
+  <path class="st12" d="M413.4,524.2c0,9.26-7.51,16.77-16.77,16.77s-16.77-7.51-16.77-16.77,7.51-16.77,16.77-16.77,16.77,7.51,16.77,16.77" vector-effect="non-scaling-stroke"/>
+  <path class="st0" d="M396.63,524.2h16.77-16.77" vector-effect="none"/>
+  <path class="st11" d="M396.63,524.2h16.77c0-9.26-7.51-16.77-16.77-16.77-5.58,0-10.52,2.72-13.57,6.91l13.57,9.86" vector-effect="none"/>
+  <path class="st1" d="M396.63,524.2l-13.57-9.86,13.57,9.86" vector-effect="none"/>
+  <path class="st8" d="M396.63,524.2l-13.57-9.86c-2.01,2.77-3.2,6.17-3.2,9.86,0,9.26,7.51,16.77,16.77,16.77,1.81,0,3.55-.29,5.19-.82l-5.19-15.95" vector-effect="none"/>
+  <path class="st4" d="M396.63,524.2l5.19,15.95c6.72-2.18,11.58-8.5,11.58-15.95h-16.77" vector-effect="none"/>
+  <path class="st12" d="M1184.82,721.82c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="non-scaling-stroke"/>
+  <path class="st0" d="M1177.33,721.82h7.5-7.5" vector-effect="none"/>
+  <path class="st11" d="M1184.82,721.82c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="none"/>
+  <path class="st12" d="M282.72,868.72c0,5.86-4.75,10.6-10.6,10.6s-10.6-4.75-10.6-10.6,4.75-10.6,10.6-10.6,10.6,4.75,10.6,10.6" vector-effect="non-scaling-stroke"/>
+  <path class="st0" d="M272.12,868.72h10.6-10.6" vector-effect="none"/>
+  <path class="st11" d="M272.12,868.72h10.6c0-5.86-4.75-10.6-10.6-10.6s-10.6,4.75-10.6,10.6h10.6" vector-effect="none"/>
+  <path class="st1" d="M272.12,868.72h-10.6,10.6" vector-effect="none"/>
+  <path class="st8" d="M272.12,868.72h-10.6,10.6" vector-effect="none"/>
+  <path class="st4" d="M272.12,868.72h-10.6,10.6" vector-effect="none"/>
+  <path class="st5" d="M272.12,868.72h-10.6,10.6" vector-effect="none"/>
+  <path class="st9" d="M272.12,868.72h-10.6,10.6" vector-effect="none"/>
+  <path class="st3" d="M272.12,868.72h-10.6c0,5.86,4.75,10.6,10.6,10.6s10.6-4.75,10.6-10.6h-10.6" vector-effect="none"/>
+  <path class="st12" d="M547,827.62c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="non-scaling-stroke"/>
+  <path class="st0" d="M539.5,827.62h7.5-7.5" vector-effect="none"/>
+  <path class="st11" d="M547,827.62c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="none"/>
+  <path class="st12" d="M565.95,744.56c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="non-scaling-stroke"/>
+  <path class="st0" d="M558.45,744.56h7.5-7.5" vector-effect="none"/>
+  <path class="st11" d="M565.95,744.56c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="none"/>
+  <path class="st12" d="M664.03,539.05c0,30.71-24.9,55.6-55.61,55.6s-55.6-24.89-55.6-55.6,24.89-55.61,55.6-55.61,55.61,24.9,55.61,55.61" vector-effect="non-scaling-stroke"/>
+  <path class="st0" d="M608.42,539.05h55.61c0-2.14-.12-4.24-.35-6.32l-55.25,6.32" vector-effect="none"/>
+  <path class="st11" d="M608.42,539.05l55.25-6.32c-.73-6.46-2.57-12.59-5.32-18.18l-49.93,24.5" vector-effect="none"/>
+  <path class="st1" d="M608.42,539.05l49.93-24.5c-1.87-3.81-4.17-7.38-6.83-10.64l-43.1,35.14" vector-effect="none"/>
+  <path class="st8" d="M608.42,539.05l43.1-35.14c-10.2-12.49-25.72-20.47-43.1-20.47-30.71,0-55.6,24.9-55.6,55.61s24.89,55.6,55.6,55.6c19.6,0,36.84-10.14,46.74-25.47l-46.74-30.14" vector-effect="none"/>
+  <path class="st4" d="M608.42,539.05l46.74,30.14c3.4-5.27,5.94-11.15,7.41-17.44l-54.15-12.7" vector-effect="none"/>
+  <path class="st5" d="M608.42,539.05l54.15,12.7-54.15-12.7" vector-effect="none"/>
+  <path class="st9" d="M608.42,539.05l54.15,12.7-54.15-12.7" vector-effect="none"/>
+  <path class="st3" d="M608.42,539.05l54.15,12.7c.95-4.08,1.46-8.33,1.46-12.7h-55.61" vector-effect="none"/>
+  <path class="st12" d="M1645.71,792.63c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.35-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="non-scaling-stroke"/>
+  <path class="st0" d="M1638.21,792.63h7.5-7.5" vector-effect="none"/>
+  <path class="st11" d="M1645.71,792.63c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.35-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="none"/>
+  <path class="st12" d="M960.98,646.06c0,10.14-8.22,18.37-18.37,18.37s-18.37-8.22-18.37-18.37,8.22-18.37,18.37-18.37,18.37,8.22,18.37,18.37" vector-effect="non-scaling-stroke"/>
+  <path class="st0" d="M942.61,646.06h18.37c0-6.8-3.69-12.73-9.18-15.91l-9.19,15.91" vector-effect="none"/>
+  <path class="st11" d="M942.61,646.06l9.19-15.91c-2.7-1.56-5.84-2.46-9.19-2.46-10.14,0-18.37,8.22-18.37,18.37,0,6.8,3.69,12.73,9.18,15.91l9.18-15.91" vector-effect="none"/>
+  <path class="st1" d="M942.61,646.06l-9.18,15.91c2.7,1.56,5.84,2.46,9.18,2.46s6.48-.9,9.19-2.46l-9.19-15.91" vector-effect="none"/>
+  <path class="st8" d="M942.61,646.06l9.19,15.91-9.19-15.91" vector-effect="none"/>
+  <path class="st4" d="M942.61,646.06l9.19,15.91-9.19-15.91" vector-effect="none"/>
+  <path class="st5" d="M942.61,646.06l9.19,15.91-9.19-15.91" vector-effect="none"/>
+  <path class="st9" d="M942.61,646.06l9.19,15.91-9.19-15.91" vector-effect="none"/>
+  <path class="st3" d="M942.61,646.06l9.19,15.91c5.49-3.18,9.18-9.11,9.18-15.91h-18.37" vector-effect="none"/>
+  <path class="st12" d="M457.57,738.95c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="non-scaling-stroke"/>
+  <path class="st0" d="M450.07,738.95h7.5-7.5" vector-effect="none"/>
+  <path class="st11" d="M457.57,738.95c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="none"/>
+  <path class="st12" d="M604.37,784.02c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="non-scaling-stroke"/>
+  <path class="st0" d="M596.87,784.02h7.5-7.5" vector-effect="none"/>
+  <path class="st11" d="M604.37,784.02c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="none"/>
+  <path class="st12" d="M568.74,321.22c0,5.86-4.75,10.6-10.6,10.6s-10.6-4.75-10.6-10.6,4.75-10.6,10.6-10.6,10.6,4.75,10.6,10.6" vector-effect="non-scaling-stroke"/>
+  <path class="st0" d="M558.14,321.22h10.6-10.6" vector-effect="none"/>
+  <path class="st11" d="M558.14,321.22h10.6c0-5.86-4.75-10.6-10.6-10.6s-10.6,4.75-10.6,10.6h10.6" vector-effect="none"/>
+  <path class="st1" d="M558.14,321.22h-10.6,10.6" vector-effect="none"/>
+  <path class="st8" d="M558.14,321.22h-10.6c0,5.86,4.75,10.6,10.6,10.6s10.6-4.75,10.6-10.6h-10.6" vector-effect="none"/>
+  <path class="st12" d="M532.72,555.66c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="non-scaling-stroke"/>
+  <path class="st0" d="M525.22,555.66h7.5-7.5" vector-effect="none"/>
+  <path class="st11" d="M532.72,555.66c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="none"/>
+  <path class="st12" d="M681.25,564.64c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="non-scaling-stroke"/>
+  <path class="st0" d="M673.76,564.64h7.5-7.5" vector-effect="none"/>
+  <path class="st11" d="M681.25,564.64c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="none"/>
+  <path class="st12" d="M615.21,676.73c0,8.28-6.71,15-15,15s-15-6.71-15-15,6.71-15,15-15,15,6.71,15,15" vector-effect="non-scaling-stroke"/>
+  <path class="st0" d="M600.22,676.73h15c0-8.28-6.71-15-15-15v15" vector-effect="none"/>
+  <path class="st11" d="M600.22,676.73v-15c-8.28,0-15,6.71-15,15h15" vector-effect="none"/>
+  <path class="st1" d="M600.22,676.73h-15c0,8.28,6.71,15,15,15v-15" vector-effect="none"/>
+  <path class="st8" d="M600.22,676.73v15-15" vector-effect="none"/>
+  <path class="st4" d="M600.22,676.73v15-15" vector-effect="none"/>
+  <path class="st5" d="M600.22,676.73v15-15" vector-effect="none"/>
+  <path class="st9" d="M600.22,676.73v15-15" vector-effect="none"/>
+  <path class="st3" d="M600.22,676.73v15c8.28,0,15-6.71,15-15h-15" vector-effect="none"/>
+  <path class="st12" d="M461.5,833.37c0,5.86-4.75,10.6-10.6,10.6s-10.6-4.75-10.6-10.6,4.75-10.6,10.6-10.6,10.6,4.75,10.6,10.6" vector-effect="non-scaling-stroke"/>
+  <path class="st0" d="M450.9,833.37h10.6-10.6" vector-effect="none"/>
+  <path class="st11" d="M450.9,833.37h10.6c0-5.86-4.75-10.6-10.6-10.6s-10.6,4.75-10.6,10.6h10.6" vector-effect="none"/>
+  <path class="st1" d="M450.9,833.37h-10.6,10.6" vector-effect="none"/>
+  <path class="st8" d="M450.9,833.37h-10.6c0,5.86,4.75,10.6,10.6,10.6s10.6-4.75,10.6-10.6h-10.6" vector-effect="none"/>
+  <path class="st12" d="M388.77,875.68c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="non-scaling-stroke"/>
+  <path class="st0" d="M388.77,875.68c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="none"/>
+  <path class="st12" d="M1186.4,638c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="non-scaling-stroke"/>
+  <path class="st0" d="M1186.4,638c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="none"/>
+  <path class="st12" d="M802.57,768.94c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="non-scaling-stroke"/>
+  <path class="st0" d="M802.57,768.94c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="none"/>
+  <path class="st12" d="M956.77,590.59c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="non-scaling-stroke"/>
+  <path class="st0" d="M956.77,590.59c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="none"/>
+  <path class="st12" d="M739.73,209.85c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="non-scaling-stroke"/>
+  <path class="st0" d="M739.73,209.85c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="none"/>
+  <path class="st12" d="M555.01,679.49c0,5.86-4.75,10.6-10.6,10.6s-10.6-4.75-10.6-10.6,4.75-10.6,10.6-10.6,10.6,4.75,10.6,10.6" vector-effect="non-scaling-stroke"/>
+  <path class="st0" d="M544.4,679.49h10.6c0-5.86-4.75-10.6-10.6-10.6s-10.6,4.75-10.6,10.6h10.6" vector-effect="none"/>
+  <path class="st11" d="M544.4,679.49h-10.6,10.6" vector-effect="none"/>
+  <path class="st1" d="M544.4,679.49h-10.6c0,5.86,4.75,10.6,10.6,10.6s10.6-4.75,10.6-10.6h-10.6" vector-effect="none"/>
+  <path class="st12" d="M90.27,755.07c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="non-scaling-stroke"/>
+  <path class="st0" d="M90.27,755.07c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="none"/>
+  <path class="st12" d="M676.27,864.16c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="non-scaling-stroke"/>
+  <path class="st0" d="M676.27,864.16c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="none"/>
+  <path class="st12" d="M905.89,454.23c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="non-scaling-stroke"/>
+  <path class="st0" d="M898.4,454.23h7.5-7.5" vector-effect="none"/>
+  <path class="st11" d="M898.4,454.23h7.5-7.5" vector-effect="none"/>
+  <path class="st1" d="M905.89,454.23c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="none"/>
+  <path class="st12" d="M1111.18,743.51c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="non-scaling-stroke"/>
+  <path class="st0" d="M1103.69,743.51h7.5-7.5" vector-effect="none"/>
+  <path class="st11" d="M1103.69,743.51h7.5-7.5" vector-effect="none"/>
+  <path class="st1" d="M1111.18,743.51c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="none"/>
+  <path class="st12" d="M161.63,471.42c0,7.17-5.81,12.99-12.99,12.99s-12.99-5.81-12.99-12.99,5.81-12.99,12.99-12.99,12.99,5.81,12.99,12.99" vector-effect="non-scaling-stroke"/>
+  <path class="st0" d="M148.65,471.42h12.99-12.99" vector-effect="none"/>
+  <path class="st11" d="M148.65,471.42h12.99-12.99" vector-effect="none"/>
+  <path class="st1" d="M148.65,471.42h12.99c0-7.17-5.81-12.99-12.99-12.99-2.37,0-4.59.63-6.5,1.74l6.5,11.25" vector-effect="none"/>
+  <path class="st8" d="M148.65,471.42l-6.5-11.25c-3.88,2.25-6.49,6.44-6.49,11.25,0,7.17,5.81,12.99,12.99,12.99s12.99-5.81,12.99-12.99h-12.99" vector-effect="none"/>
+  <path class="st12" d="M682.53,615.14c0,8.28-6.71,15-15,15s-15-6.71-15-15,6.71-15,15-15,15,6.71,15,15" vector-effect="non-scaling-stroke"/>
+  <path class="st0" d="M667.53,615.14h15-15" vector-effect="none"/>
+  <path class="st11" d="M667.53,615.14h15-15" vector-effect="none"/>
+  <path class="st1" d="M667.53,615.14h15c0-8.28-6.71-15-15-15v15" vector-effect="none"/>
+  <path class="st8" d="M667.53,615.14v-15,15" vector-effect="none"/>
+  <path class="st4" d="M667.53,615.14v-15,15" vector-effect="none"/>
+  <path class="st5" d="M667.53,615.14v-15c-8.28,0-15,6.71-15,15s6.71,15,15,15,15-6.71,15-15h-15" vector-effect="none"/>
+  <path class="st12" d="M171.43,533.46c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="non-scaling-stroke"/>
+  <path class="st0" d="M163.93,533.46h7.5-7.5" vector-effect="none"/>
+  <path class="st11" d="M163.93,533.46h7.5-7.5" vector-effect="none"/>
+  <path class="st1" d="M171.43,533.46c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="none"/>
+  <path class="st12" d="M237.29,685.13c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="non-scaling-stroke"/>
+  <path class="st0" d="M229.79,685.13h7.5-7.5" vector-effect="none"/>
+  <path class="st11" d="M229.79,685.13h7.5-7.5" vector-effect="none"/>
+  <path class="st1" d="M237.29,685.13c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="none"/>
+  <path class="st12" d="M841.16,1058.21c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="non-scaling-stroke"/>
+  <path class="st0" d="M833.66,1058.21h7.5-7.5" vector-effect="none"/>
+  <path class="st11" d="M833.66,1058.21h7.5-7.5" vector-effect="none"/>
+  <path class="st1" d="M841.16,1058.21c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="none"/>
+  <path class="st12" d="M204.76,842.48c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="non-scaling-stroke"/>
+  <path class="st0" d="M197.26,842.48h7.5-7.5" vector-effect="none"/>
+  <path class="st11" d="M197.26,842.48h7.5-7.5" vector-effect="none"/>
+  <path class="st1" d="M204.76,842.48c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="none"/>
+  <path class="st12" d="M356.46,347.62c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="non-scaling-stroke"/>
+  <path class="st0" d="M348.96,347.62h7.5-7.5" vector-effect="none"/>
+  <path class="st11" d="M348.96,347.62h7.5-7.5" vector-effect="none"/>
+  <path class="st1" d="M356.46,347.62c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="none"/>
+  <path class="st12" d="M610.73,376.85c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="non-scaling-stroke"/>
+  <path class="st0" d="M610.73,376.85c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="none"/>
+  <path class="st12" d="M932.21,830.5c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="non-scaling-stroke"/>
+  <path class="st0" d="M932.21,830.5c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="none"/>
+  <path class="st12" d="M1028.19,528.63c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.35-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="non-scaling-stroke"/>
+  <path class="st0" d="M1028.19,528.63c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.35-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="none"/>
+  <path class="st12" d="M263.99,627.72c0,5.86-4.75,10.6-10.6,10.6s-10.6-4.75-10.6-10.6,4.75-10.6,10.6-10.6,10.6,4.75,10.6,10.6" vector-effect="non-scaling-stroke"/>
+  <path class="st0" d="M253.39,627.72h10.6c0-5.86-4.75-10.6-10.6-10.6s-10.6,4.75-10.6,10.6h10.6" vector-effect="none"/>
+  <path class="st11" d="M253.39,627.72h-10.6,10.6" vector-effect="none"/>
+  <path class="st1" d="M253.39,627.72h-10.6,10.6" vector-effect="none"/>
+  <path class="st8" d="M253.39,627.72h-10.6c0,5.86,4.75,10.6,10.6,10.6s10.6-4.75,10.6-10.6h-10.6" vector-effect="none"/>
+  <path class="st12" d="M1119.16,613.08c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="non-scaling-stroke"/>
+  <path class="st0" d="M1119.16,613.08c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="none"/>
+  <path class="st12" d="M995.85,753.31c0,5.86-4.75,10.6-10.6,10.6s-10.6-4.75-10.6-10.6,4.75-10.6,10.6-10.6,10.6,4.75,10.6,10.6" vector-effect="non-scaling-stroke"/>
+  <path class="st0" d="M985.25,753.31h10.6-10.6" vector-effect="none"/>
+  <path class="st11" d="M985.25,753.31h10.6-10.6" vector-effect="none"/>
+  <path class="st1" d="M985.25,753.31h10.6-10.6" vector-effect="none"/>
+  <path class="st8" d="M985.25,753.31h10.6-10.6" vector-effect="none"/>
+  <path class="st4" d="M985.25,753.31h10.6-10.6" vector-effect="none"/>
+  <path class="st5" d="M985.25,753.31h10.6-10.6" vector-effect="none"/>
+  <path class="st9" d="M985.25,753.31h10.6-10.6" vector-effect="none"/>
+  <path class="st3" d="M995.85,753.31c0,5.86-4.75,10.6-10.6,10.6s-10.6-4.75-10.6-10.6,4.75-10.6,10.6-10.6,10.6,4.75,10.6,10.6" vector-effect="none"/>
+  <path class="st12" d="M177.65,776.8c0,5.86-4.75,10.6-10.6,10.6s-10.6-4.75-10.6-10.6,4.75-10.6,10.6-10.6,10.6,4.75,10.6,10.6" vector-effect="non-scaling-stroke"/>
+  <path class="st0" d="M167.04,776.8h10.6-10.6" vector-effect="none"/>
+  <path class="st11" d="M167.04,776.8h10.6-10.6" vector-effect="none"/>
+  <path class="st1" d="M167.04,776.8h10.6-10.6" vector-effect="none"/>
+  <path class="st8" d="M167.04,776.8h10.6-10.6" vector-effect="none"/>
+  <path class="st4" d="M167.04,776.8h10.6-10.6" vector-effect="none"/>
+  <path class="st5" d="M167.04,776.8h10.6-10.6" vector-effect="none"/>
+  <path class="st9" d="M167.04,776.8h10.6-10.6" vector-effect="none"/>
+  <path class="st3" d="M177.65,776.8c0,5.86-4.75,10.6-10.6,10.6s-10.6-4.75-10.6-10.6,4.75-10.6,10.6-10.6,10.6,4.75,10.6,10.6" vector-effect="none"/>
+  <path class="st12" d="M677.03,662.17c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="non-scaling-stroke"/>
+  <path class="st0" d="M669.54,662.17h7.5-7.5" vector-effect="none"/>
+  <path class="st11" d="M669.54,662.17h7.5-7.5" vector-effect="none"/>
+  <path class="st1" d="M669.54,662.17h7.5-7.5" vector-effect="none"/>
+  <path class="st8" d="M669.54,662.17h7.5-7.5" vector-effect="none"/>
+  <path class="st4" d="M669.54,662.17h7.5-7.5" vector-effect="none"/>
+  <path class="st5" d="M669.54,662.17h7.5-7.5" vector-effect="none"/>
+  <path class="st9" d="M669.54,662.17h7.5-7.5" vector-effect="none"/>
+  <path class="st3" d="M677.03,662.17c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="none"/>
+  <path class="st12" d="M919.96,683.88c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="non-scaling-stroke"/>
+  <path class="st0" d="M912.47,683.88h7.5-7.5" vector-effect="none"/>
+  <path class="st11" d="M912.47,683.88h7.5-7.5" vector-effect="none"/>
+  <path class="st1" d="M912.47,683.88h7.5-7.5" vector-effect="none"/>
+  <path class="st8" d="M912.47,683.88h7.5-7.5" vector-effect="none"/>
+  <path class="st4" d="M912.47,683.88h7.5-7.5" vector-effect="none"/>
+  <path class="st5" d="M912.47,683.88h7.5-7.5" vector-effect="none"/>
+  <path class="st9" d="M912.47,683.88h7.5-7.5" vector-effect="none"/>
+  <path class="st3" d="M919.96,683.88c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="none"/>
+  <path class="st12" d="M339.13,835.02c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="non-scaling-stroke"/>
+  <path class="st0" d="M331.63,835.02h7.5-7.5" vector-effect="none"/>
+  <path class="st11" d="M331.63,835.02h7.5-7.5" vector-effect="none"/>
+  <path class="st1" d="M331.63,835.02h7.5-7.5" vector-effect="none"/>
+  <path class="st8" d="M331.63,835.02h7.5-7.5" vector-effect="none"/>
+  <path class="st4" d="M331.63,835.02h7.5-7.5" vector-effect="none"/>
+  <path class="st5" d="M331.63,835.02h7.5-7.5" vector-effect="none"/>
+  <path class="st9" d="M331.63,835.02h7.5-7.5" vector-effect="none"/>
+  <path class="st3" d="M339.13,835.02c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="none"/>
+  <path class="st12" d="M690.36,60.66c0,5.86-4.75,10.6-10.6,10.6s-10.6-4.75-10.6-10.6,4.75-10.6,10.6-10.6,10.6,4.75,10.6,10.6" vector-effect="non-scaling-stroke"/>
+  <path class="st0" d="M679.76,60.66h10.6-10.6" vector-effect="none"/>
+  <path class="st11" d="M679.76,60.66h10.6-10.6" vector-effect="none"/>
+  <path class="st1" d="M679.76,60.66h10.6-10.6" vector-effect="none"/>
+  <path class="st8" d="M679.76,60.66h10.6c0-5.86-4.75-10.6-10.6-10.6s-10.6,4.75-10.6,10.6h10.6" vector-effect="none"/>
+  <path class="st4" d="M679.76,60.66h-10.6,10.6" vector-effect="none"/>
+  <path class="st5" d="M679.76,60.66h-10.6,10.6" vector-effect="none"/>
+  <path class="st9" d="M679.76,60.66h-10.6,10.6" vector-effect="none"/>
+  <path class="st3" d="M679.76,60.66h-10.6c0,5.86,4.75,10.6,10.6,10.6s10.6-4.75,10.6-10.6h-10.6" vector-effect="none"/>
+  <path class="st12" d="M277.96,1055.66c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.35,7.5,7.5" vector-effect="non-scaling-stroke"/>
+  <path class="st0" d="M270.46,1055.66h7.5-7.5" vector-effect="none"/>
+  <path class="st11" d="M270.46,1055.66h7.5-7.5" vector-effect="none"/>
+  <path class="st1" d="M270.46,1055.66h7.5-7.5" vector-effect="none"/>
+  <path class="st8" d="M270.46,1055.66h7.5-7.5" vector-effect="none"/>
+  <path class="st4" d="M270.46,1055.66h7.5-7.5" vector-effect="none"/>
+  <path class="st5" d="M270.46,1055.66h7.5-7.5" vector-effect="none"/>
+  <path class="st9" d="M270.46,1055.66h7.5-7.5" vector-effect="none"/>
+  <path class="st3" d="M277.96,1055.66c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.35,7.5,7.5" vector-effect="none"/>
+  <path class="st12" d="M1414.86,800.9c0,4.14-3.35,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="non-scaling-stroke"/>
+  <path class="st0" d="M1407.36,800.9h7.5-7.5" vector-effect="none"/>
+  <path class="st11" d="M1407.36,800.9h7.5-7.5" vector-effect="none"/>
+  <path class="st1" d="M1407.36,800.9h7.5-7.5" vector-effect="none"/>
+  <path class="st8" d="M1407.36,800.9h7.5-7.5" vector-effect="none"/>
+  <path class="st4" d="M1407.36,800.9h7.5-7.5" vector-effect="none"/>
+  <path class="st5" d="M1407.36,800.9h7.5-7.5" vector-effect="none"/>
+  <path class="st9" d="M1407.36,800.9h7.5-7.5" vector-effect="none"/>
+  <path class="st3" d="M1414.86,800.9c0,4.14-3.35,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="none"/>
+  <path class="st12" d="M425.86,958.3c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="non-scaling-stroke"/>
+  <path class="st0" d="M418.37,958.3h7.5-7.5" vector-effect="none"/>
+  <path class="st11" d="M418.37,958.3h7.5-7.5" vector-effect="none"/>
+  <path class="st1" d="M418.37,958.3h7.5-7.5" vector-effect="none"/>
+  <path class="st8" d="M418.37,958.3h7.5-7.5" vector-effect="none"/>
+  <path class="st4" d="M418.37,958.3h7.5-7.5" vector-effect="none"/>
+  <path class="st5" d="M418.37,958.3h7.5-7.5" vector-effect="none"/>
+  <path class="st9" d="M418.37,958.3h7.5-7.5" vector-effect="none"/>
+  <path class="st3" d="M425.86,958.3c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="none"/>
+  <path class="st12" d="M690.8,473.66c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="non-scaling-stroke"/>
+  <path class="st0" d="M683.3,473.66h7.5-7.5" vector-effect="none"/>
+  <path class="st11" d="M683.3,473.66h7.5-7.5" vector-effect="none"/>
+  <path class="st1" d="M683.3,473.66h7.5-7.5" vector-effect="none"/>
+  <path class="st8" d="M683.3,473.66h7.5-7.5" vector-effect="none"/>
+  <path class="st4" d="M683.3,473.66h7.5-7.5" vector-effect="none"/>
+  <path class="st5" d="M683.3,473.66h7.5-7.5" vector-effect="none"/>
+  <path class="st9" d="M683.3,473.66h7.5-7.5" vector-effect="none"/>
+  <path class="st3" d="M690.8,473.66c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="none"/>
+  <path class="st12" d="M732.05,717.39c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="non-scaling-stroke"/>
+  <path class="st0" d="M724.56,717.39h7.5-7.5" vector-effect="none"/>
+  <path class="st11" d="M724.56,717.39h7.5-7.5" vector-effect="none"/>
+  <path class="st1" d="M724.56,717.39h7.5-7.5" vector-effect="none"/>
+  <path class="st8" d="M724.56,717.39h7.5-7.5" vector-effect="none"/>
+  <path class="st4" d="M724.56,717.39h7.5-7.5" vector-effect="none"/>
+  <path class="st5" d="M724.56,717.39h7.5-7.5" vector-effect="none"/>
+  <path class="st9" d="M724.56,717.39h7.5-7.5" vector-effect="none"/>
+  <path class="st3" d="M732.05,717.39c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="none"/>
+  <path class="st12" d="M537.36,375.19c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="non-scaling-stroke"/>
+  <path class="st0" d="M529.87,375.19h7.5-7.5" vector-effect="none"/>
+  <path class="st11" d="M529.87,375.19h7.5-7.5" vector-effect="none"/>
+  <path class="st1" d="M529.87,375.19h7.5-7.5" vector-effect="none"/>
+  <path class="st8" d="M529.87,375.19h7.5-7.5" vector-effect="none"/>
+  <path class="st4" d="M529.87,375.19h7.5-7.5" vector-effect="none"/>
+  <path class="st5" d="M529.87,375.19h7.5-7.5" vector-effect="none"/>
+  <path class="st9" d="M529.87,375.19h7.5-7.5" vector-effect="none"/>
+  <path class="st3" d="M537.36,375.19c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="none"/>
+  <path class="st12" d="M489.9,336.1c0,5.86-4.75,10.6-10.6,10.6s-10.6-4.75-10.6-10.6,4.75-10.6,10.6-10.6,10.6,4.75,10.6,10.6" vector-effect="non-scaling-stroke"/>
+  <path class="st0" d="M479.29,336.1h10.6-10.6" vector-effect="none"/>
+  <path class="st11" d="M479.29,336.1h10.6-10.6" vector-effect="none"/>
+  <path class="st1" d="M479.29,336.1h10.6-10.6" vector-effect="none"/>
+  <path class="st8" d="M479.29,336.1h10.6c0-5.86-4.75-10.6-10.6-10.6s-10.6,4.75-10.6,10.6h10.6" vector-effect="none"/>
+  <path class="st4" d="M479.29,336.1h-10.6,10.6" vector-effect="none"/>
+  <path class="st5" d="M479.29,336.1h-10.6,10.6" vector-effect="none"/>
+  <path class="st9" d="M479.29,336.1h-10.6,10.6" vector-effect="none"/>
+  <path class="st3" d="M479.29,336.1h-10.6c0,5.86,4.75,10.6,10.6,10.6s10.6-4.75,10.6-10.6h-10.6" vector-effect="none"/>
+  <path class="st12" d="M1736.88,946.69c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="non-scaling-stroke"/>
+  <path class="st0" d="M1729.38,946.69h7.5-7.5" vector-effect="none"/>
+  <path class="st11" d="M1729.38,946.69h7.5-7.5" vector-effect="none"/>
+  <path class="st1" d="M1729.38,946.69h7.5-7.5" vector-effect="none"/>
+  <path class="st8" d="M1729.38,946.69h7.5-7.5" vector-effect="none"/>
+  <path class="st4" d="M1729.38,946.69h7.5-7.5" vector-effect="none"/>
+  <path class="st5" d="M1729.38,946.69h7.5-7.5" vector-effect="none"/>
+  <path class="st9" d="M1729.38,946.69h7.5-7.5" vector-effect="none"/>
+  <path class="st3" d="M1736.88,946.69c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="none"/>
+  <path class="st12" d="M853.74,214.99c0,5.86-4.75,10.6-10.6,10.6s-10.6-4.75-10.6-10.6,4.75-10.6,10.6-10.6,10.6,4.75,10.6,10.6" vector-effect="non-scaling-stroke"/>
+  <path class="st0" d="M843.14,214.99h10.6-10.6" vector-effect="none"/>
+  <path class="st11" d="M843.14,214.99h10.6-10.6" vector-effect="none"/>
+  <path class="st1" d="M843.14,214.99h10.6-10.6" vector-effect="none"/>
+  <path class="st8" d="M843.14,214.99h10.6c0-5.86-4.75-10.6-10.6-10.6s-10.6,4.75-10.6,10.6h10.6" vector-effect="none"/>
+  <path class="st4" d="M843.14,214.99h-10.6,10.6" vector-effect="none"/>
+  <path class="st5" d="M843.14,214.99h-10.6,10.6" vector-effect="none"/>
+  <path class="st9" d="M843.14,214.99h-10.6,10.6" vector-effect="none"/>
+  <path class="st3" d="M843.14,214.99h-10.6c0,5.86,4.75,10.6,10.6,10.6s10.6-4.75,10.6-10.6h-10.6" vector-effect="none"/>
+  <path class="st12" d="M732.68,657.34c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="non-scaling-stroke"/>
+  <path class="st0" d="M725.18,657.34h7.5-7.5" vector-effect="none"/>
+  <path class="st11" d="M725.18,657.34h7.5-7.5" vector-effect="none"/>
+  <path class="st1" d="M725.18,657.34h7.5-7.5" vector-effect="none"/>
+  <path class="st8" d="M732.68,657.34c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="none"/>
+  <path class="st12" d="M772.32,22.49c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="non-scaling-stroke"/>
+  <path class="st0" d="M764.82,22.49h7.5-7.5" vector-effect="none"/>
+  <path class="st11" d="M764.82,22.49h7.5-7.5" vector-effect="none"/>
+  <path class="st1" d="M764.82,22.49h7.5-7.5" vector-effect="none"/>
+  <path class="st8" d="M772.32,22.49c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="none"/>
+  <path class="st12" d="M429.35,495.98c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="non-scaling-stroke"/>
+  <path class="st0" d="M421.86,495.98h7.5-7.5" vector-effect="none"/>
+  <path class="st11" d="M421.86,495.98h7.5-7.5" vector-effect="none"/>
+  <path class="st1" d="M421.86,495.98h7.5-7.5" vector-effect="none"/>
+  <path class="st8" d="M429.35,495.98c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="none"/>
+  <path class="st12" d="M524.21,707.79c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="non-scaling-stroke"/>
+  <path class="st0" d="M516.72,707.79h7.5-7.5" vector-effect="none"/>
+  <path class="st11" d="M516.72,707.79h7.5-7.5" vector-effect="none"/>
+  <path class="st1" d="M516.72,707.79h7.5-7.5" vector-effect="none"/>
+  <path class="st8" d="M524.21,707.79c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="none"/>
+  <path class="st12" d="M433.81,1081.35c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="non-scaling-stroke"/>
+  <path class="st0" d="M426.31,1081.35h7.5-7.5" vector-effect="none"/>
+  <path class="st11" d="M426.31,1081.35h7.5-7.5" vector-effect="none"/>
+  <path class="st1" d="M426.31,1081.35h7.5-7.5" vector-effect="none"/>
+  <path class="st8" d="M433.81,1081.35c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="none"/>
+  <path class="st12" d="M412,602.79c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="non-scaling-stroke"/>
+  <path class="st0" d="M404.5,602.79h7.5-7.5" vector-effect="none"/>
+  <path class="st11" d="M404.5,602.79h7.5-7.5" vector-effect="none"/>
+  <path class="st1" d="M404.5,602.79h7.5-7.5" vector-effect="none"/>
+  <path class="st8" d="M412,602.79c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="none"/>
+  <path class="st12" d="M712.63,402.17c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="non-scaling-stroke"/>
+  <path class="st0" d="M705.13,402.17h7.5-7.5" vector-effect="none"/>
+  <path class="st11" d="M705.13,402.17h7.5-7.5" vector-effect="none"/>
+  <path class="st1" d="M705.13,402.17h7.5-7.5" vector-effect="none"/>
+  <path class="st8" d="M712.63,402.17c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="none"/>
+  <path class="st12" d="M470.84,400.06c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="non-scaling-stroke"/>
+  <path class="st0" d="M463.34,400.06h7.5-7.5" vector-effect="none"/>
+  <path class="st11" d="M463.34,400.06h7.5-7.5" vector-effect="none"/>
+  <path class="st1" d="M463.34,400.06h7.5-7.5" vector-effect="none"/>
+  <path class="st8" d="M470.84,400.06c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="none"/>
+  <path class="st12" d="M262.8,369.03c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="non-scaling-stroke"/>
+  <path class="st0" d="M255.3,369.03h7.5-7.5" vector-effect="none"/>
+  <path class="st11" d="M255.3,369.03h7.5-7.5" vector-effect="none"/>
+  <path class="st1" d="M255.3,369.03h7.5-7.5" vector-effect="none"/>
+  <path class="st8" d="M262.8,369.03c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="none"/>
+  <path class="st12" d="M176.74,647.57c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="non-scaling-stroke"/>
+  <path class="st0" d="M169.24,647.57h7.5-7.5" vector-effect="none"/>
+  <path class="st11" d="M169.24,647.57h7.5-7.5" vector-effect="none"/>
+  <path class="st1" d="M169.24,647.57h7.5-7.5" vector-effect="none"/>
+  <path class="st8" d="M176.74,647.57c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="none"/>
+  <path class="st12" d="M680.69,351.98c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="non-scaling-stroke"/>
+  <path class="st0" d="M673.19,351.98h7.5-7.5" vector-effect="none"/>
+  <path class="st11" d="M673.19,351.98h7.5-7.5" vector-effect="none"/>
+  <path class="st1" d="M673.19,351.98h7.5-7.5" vector-effect="none"/>
+  <path class="st8" d="M680.69,351.98c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="none"/>
+  <path class="st12" d="M649.15,208.23c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="non-scaling-stroke"/>
+  <path class="st0" d="M641.65,208.23h7.5-7.5" vector-effect="none"/>
+  <path class="st11" d="M641.65,208.23h7.5-7.5" vector-effect="none"/>
+  <path class="st1" d="M641.65,208.23h7.5-7.5" vector-effect="none"/>
+  <path class="st8" d="M641.65,208.23h7.5-7.5" vector-effect="none"/>
+  <path class="st4" d="M649.15,208.23c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="none"/>
+  <path class="st12" d="M239.62,752.95c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="non-scaling-stroke"/>
+  <path class="st0" d="M232.12,752.95h7.5-7.5" vector-effect="none"/>
+  <path class="st11" d="M232.12,752.95h7.5-7.5" vector-effect="none"/>
+  <path class="st1" d="M232.12,752.95h7.5-7.5" vector-effect="none"/>
+  <path class="st8" d="M232.12,752.95h7.5-7.5" vector-effect="none"/>
+  <path class="st4" d="M239.62,752.95c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="none"/>
+  <path class="st12" d="M803.23,360.31c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="non-scaling-stroke"/>
+  <path class="st0" d="M795.73,360.31h7.5-7.5" vector-effect="none"/>
+  <path class="st11" d="M795.73,360.31h7.5-7.5" vector-effect="none"/>
+  <path class="st1" d="M795.73,360.31h7.5-7.5" vector-effect="none"/>
+  <path class="st8" d="M795.73,360.31h7.5-7.5" vector-effect="none"/>
+  <path class="st4" d="M803.23,360.31c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="none"/>
+  <path class="st12" d="M266.43,805.61c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="non-scaling-stroke"/>
+  <path class="st0" d="M258.93,805.61h7.5-7.5" vector-effect="none"/>
+  <path class="st11" d="M258.93,805.61h7.5-7.5" vector-effect="none"/>
+  <path class="st1" d="M258.93,805.61h7.5-7.5" vector-effect="none"/>
+  <path class="st8" d="M258.93,805.61h7.5-7.5" vector-effect="none"/>
+  <path class="st4" d="M266.43,805.61c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="none"/>
+  <path class="st12" d="M749.13,837.75c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="non-scaling-stroke"/>
+  <path class="st0" d="M741.63,837.75h7.5-7.5" vector-effect="none"/>
+  <path class="st11" d="M741.63,837.75h7.5-7.5" vector-effect="none"/>
+  <path class="st1" d="M741.63,837.75h7.5-7.5" vector-effect="none"/>
+  <path class="st8" d="M741.63,837.75h7.5-7.5" vector-effect="none"/>
+  <path class="st4" d="M749.13,837.75c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="none"/>
+  <path class="st12" d="M1670.3,914.89c0,5.86-4.75,10.6-10.6,10.6s-10.61-4.75-10.61-10.6,4.75-10.6,10.61-10.6,10.6,4.75,10.6,10.6" vector-effect="non-scaling-stroke"/>
+  <path class="st0" d="M1659.7,914.89h10.6-10.6" vector-effect="none"/>
+  <path class="st11" d="M1659.7,914.89h10.6-10.6" vector-effect="none"/>
+  <path class="st1" d="M1659.7,914.89h10.6-10.6" vector-effect="none"/>
+  <path class="st8" d="M1659.7,914.89h10.6-10.6" vector-effect="none"/>
+  <path class="st4" d="M1670.3,914.89c0,5.86-4.75,10.6-10.6,10.6s-10.61-4.75-10.61-10.6,4.75-10.6,10.61-10.6,10.6,4.75,10.6,10.6" vector-effect="none"/>
+  <path class="st12" d="M172.95,721.88c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="non-scaling-stroke"/>
+  <path class="st0" d="M165.46,721.88h7.5-7.5" vector-effect="none"/>
+  <path class="st11" d="M165.46,721.88h7.5-7.5" vector-effect="none"/>
+  <path class="st1" d="M165.46,721.88h7.5-7.5" vector-effect="none"/>
+  <path class="st8" d="M165.46,721.88h7.5-7.5" vector-effect="none"/>
+  <path class="st4" d="M172.95,721.88c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="none"/>
+  <path class="st12" d="M44.99,407.58c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="non-scaling-stroke"/>
+  <path class="st0" d="M37.49,407.58h7.5-7.5" vector-effect="none"/>
+  <path class="st11" d="M37.49,407.58h7.5-7.5" vector-effect="none"/>
+  <path class="st1" d="M37.49,407.58h7.5-7.5" vector-effect="none"/>
+  <path class="st8" d="M37.49,407.58h7.5-7.5" vector-effect="none"/>
+  <path class="st4" d="M44.99,407.58c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="none"/>
+  <path class="st12" d="M1600.86,931.35c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.35-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="non-scaling-stroke"/>
+  <path class="st0" d="M1593.36,931.35h7.5-7.5" vector-effect="none"/>
+  <path class="st11" d="M1593.36,931.35h7.5-7.5" vector-effect="none"/>
+  <path class="st1" d="M1593.36,931.35h7.5-7.5" vector-effect="none"/>
+  <path class="st8" d="M1593.36,931.35h7.5-7.5" vector-effect="none"/>
+  <path class="st4" d="M1600.86,931.35c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.35-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="none"/>
+  <path class="st12" d="M101.13,920.73c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="non-scaling-stroke"/>
+  <path class="st0" d="M93.64,920.73h7.5-7.5" vector-effect="none"/>
+  <path class="st11" d="M93.64,920.73h7.5-7.5" vector-effect="none"/>
+  <path class="st1" d="M93.64,920.73h7.5-7.5" vector-effect="none"/>
+  <path class="st8" d="M93.64,920.73h7.5-7.5" vector-effect="none"/>
+  <path class="st4" d="M101.13,920.73c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="none"/>
+  <path class="st12" d="M756.23,1090.27c0,4.15-3.36,7.5-7.5,7.5s-7.5-3.35-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="non-scaling-stroke"/>
+  <path class="st0" d="M748.73,1090.27h7.5-7.5" vector-effect="none"/>
+  <path class="st11" d="M748.73,1090.27h7.5-7.5" vector-effect="none"/>
+  <path class="st1" d="M748.73,1090.27h7.5-7.5" vector-effect="none"/>
+  <path class="st8" d="M748.73,1090.27h7.5-7.5" vector-effect="none"/>
+  <path class="st4" d="M748.73,1090.27h7.5-7.5" vector-effect="none"/>
+  <path class="st5" d="M756.23,1090.27c0,4.15-3.36,7.5-7.5,7.5s-7.5-3.35-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="none"/>
+  <path class="st2" d="M801.75,616.83c0,2.76-2.24,5-5,5s-5-2.24-5-5,2.24-5,5-5,5,2.24,5,5" vector-effect="none"/>
+  <path class="st2" d="M460.3,659.45c0,2.76-2.24,5-5,5s-5-2.24-5-5,2.24-5,5-5,5,2.24,5,5" vector-effect="none"/>
+  <path class="st2" d="M256.43,545.47c0,2.76-2.24,5-5,5s-5-2.24-5-5,2.24-5,5-5,5,2.24,5,5" vector-effect="none"/>
+  <path class="st2" d="M397.62,439.28c0,2.76-2.24,5-5,5s-5-2.24-5-5,2.24-5,5-5,5,2.24,5,5" vector-effect="none"/>
+  <path class="st2" d="M874.64,750c0,2.76-2.24,5-5,5s-5-2.24-5-5,2.24-5,5-5,5,2.24,5,5" vector-effect="none"/>
+  <path class="st2" d="M701.44,145.29c0,2.76-2.24,5-5,5s-5-2.24-5-5,2.24-5,5-5,5,2.24,5,5" vector-effect="none"/>
+  <path class="st2" d="M762,272.71c0,2.76-2.24,5-5,5s-5-2.24-5-5,2.24-5,5-5,5,2.24,5,5" vector-effect="none"/>
+  <path class="st2" d="M329.46,436.53c0,2.76-2.24,5-5,5s-5-2.24-5-5,2.24-5,5-5,5,2.24,5,5" vector-effect="none"/>
+  <path class="st2" d="M743.87,441.29c0,2.76-2.24,5-5,5s-5-2.24-5-5,2.24-5,5-5,5,2.24,5,5" vector-effect="none"/>
+  <path class="st2" d="M826.01,504.76c0,2.76-2.24,5-5,5s-5-2.24-5-5,2.24-5,5-5,5,2.24,5,5" vector-effect="none"/>
+  <path class="st2" d="M1581.92,861.21c0,2.76-2.24,5-5,5s-5-2.24-5-5,2.24-5,5-5,5,2.24,5,5" vector-effect="none"/>
+  <text class="st13" transform="translate(1605.14 572.79)"><tspan x="0" y="0">10 samples</tspan></text>
+  <path class="st7" d="M1569.25,566.66c0,13.09-10.62,23.71-23.71,23.71s-23.71-10.62-23.71-23.71,10.62-23.71,23.71-23.71,23.71,10.62,23.71,23.71" vector-effect="none"/>
+  <path class="st7" d="M1553.9,618.14c0,4.14-3.36,7.5-7.5,7.5s-7.5-3.36-7.5-7.5,3.36-7.5,7.5-7.5,7.5,3.36,7.5,7.5" vector-effect="none"/>
+  <text class="st13" transform="translate(1608.9 624.26)"><tspan x="0" y="0">1 sample</tspan></text>
+  <path class="st0" d="M1539.83,67.35c0,11.41-9.25,20.65-20.65,20.65s-20.65-9.25-20.65-20.65,9.25-20.65,20.65-20.65,20.65,9.25,20.65,20.65" vector-effect="non-scaling-stroke"/>
+  <text class="st14" transform="translate(1581.13 71.39)"><tspan x="0" y="0">Texas</tspan></text>
+  <path class="st11" d="M1539.83,122.4c0,11.41-9.25,20.65-20.65,20.65s-20.65-9.25-20.65-20.65,9.25-20.65,20.65-20.65,20.65,9.25,20.65,20.65" vector-effect="non-scaling-stroke"/>
+  <text class="st14" transform="translate(1581.13 126.45)"><tspan x="0" y="0">Georgia</tspan></text>
+  <path class="st1" d="M1539.83,177.46c0,11.41-9.25,20.65-20.65,20.65s-20.65-9.25-20.65-20.65,9.25-20.65,20.65-20.65,20.65,9.25,20.65,20.65" vector-effect="non-scaling-stroke"/>
+  <text class="st14" transform="translate(1581.13 181.51)"><tspan x="0" y="0">Chesapeake</tspan></text>
+  <path class="st8" d="M1539.83,232.55c0,11.41-9.25,20.65-20.65,20.65s-20.65-9.25-20.65-20.65,9.25-20.65,20.65-20.65,20.65,9.25,20.65,20.65" vector-effect="non-scaling-stroke"/>
+  <text class="st14" transform="translate(1581.13 236.59)"><tspan x="0" y="0">CarrotIsland</tspan></text>
+  <path class="st4" d="M1539.83,287.6c0,11.41-9.25,20.65-20.65,20.65s-20.65-9.25-20.65-20.65,9.25-20.65,20.65-20.65,20.65,9.25,20.65,20.65" vector-effect="non-scaling-stroke"/>
+  <text class="st14" transform="translate(1581.13 291.65)"><tspan x="0" y="0">Mattamuskeet</tspan></text>
+  <path class="st5" d="M1539.83,342.69c0,11.41-9.25,20.65-20.65,20.65s-20.65-9.25-20.65-20.65,9.25-20.65,20.65-20.65,20.65,9.25,20.65,20.65" vector-effect="non-scaling-stroke"/>
+  <text class="st14" transform="translate(1581.13 346.73)"><tspan x="0" y="0">Sardinia</tspan></text>
+  <path class="st9" d="M1539.83,397.75c0,11.41-9.25,20.65-20.65,20.65s-20.65-9.25-20.65-20.65,9.25-20.65,20.65-20.65,20.65,9.25,20.65,20.65" vector-effect="non-scaling-stroke"/>
+  <text class="st14" transform="translate(1581.13 401.79)"><tspan x="0" y="0">Turkey</tspan></text>
+  <path class="st3" d="M1539.83,452.8c0,11.41-9.25,20.65-20.65,20.65s-20.65-9.25-20.65-20.65,9.25-20.65,20.65-20.65,20.65,9.25,20.65,20.65" vector-effect="non-scaling-stroke"/>
+  <text class="st14" transform="translate(1581.13 456.85)"><tspan x="0" y="0">Beaufort</tspan></text>
+</svg>
