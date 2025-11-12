@@ -52,9 +52,9 @@ plot(
   size = size_scaled,
   bg = cols,
   pie = pie,
-  show.mutation = 3,
-  scale.ratio = 6,
-  asp = 0.5,
+  show.mutation = 0,
+  scale.ratio = 30,
+  asp = 1,
   labels = FALSE,
   fast = TRUE
 )
@@ -69,6 +69,10 @@ legend(
   bty="n"
 )
 
+```
+```{r warning = FALSE}
+setwd("/Users/henrysun_1/Desktop/Duke/PhD 2025-2026/callinectes_co1")
+write.csv(merged, "processed/traits.csv")
 ```
 
 
